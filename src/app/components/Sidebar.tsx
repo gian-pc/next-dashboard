@@ -48,6 +48,7 @@ export const Sidebar = () => {
               alt="User avatar"
               width={50}
               height={50}
+              priority
             />
 
           </span>
